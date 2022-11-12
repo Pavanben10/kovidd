@@ -7,7 +7,8 @@ We created this web application for the sole reason to provide the accurate info
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
 
 
-**Project Link** -
+**Project Link** - https://red-ground-00de09200.2.azurestaticapps.net/
+
 **project demo video link** - 
 
 ## Azure technologies used for Project
