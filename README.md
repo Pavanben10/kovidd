@@ -1,6 +1,7 @@
 #Kovidd 
 
-This is a web based application developed to publish the covid related info on our site.
+We created this web application for the sole reason to provide the accurate info regarding corona, Here in this website users can get legir information on covid.
+
 
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
