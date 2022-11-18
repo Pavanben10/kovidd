@@ -9,7 +9,7 @@ We created this web application for the sole reason to provide the accurate info
 
 **Project Link** - https://red-ground-00de09200.2.azurestaticapps.net/
 
-**project demo video link** - 
+**project demo video link** -  https://youtu.be/0KF1JwM7moE
 
 ## Azure technologies used for Project
 
