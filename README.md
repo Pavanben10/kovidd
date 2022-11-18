@@ -1,6 +1,6 @@
 #Kovidd 
 
-We created this web application for the sole reason to provide the accurate info regarding corona, Here in this website users can get legir information on covid.
+We created this web application for the sole reason to provide the accurate info regarding corona, Here in this website users can get legit information on covid.
 
 
 
